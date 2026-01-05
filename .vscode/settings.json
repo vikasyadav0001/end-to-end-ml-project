@@ -1,0 +1,9 @@
+{
+    "python.terminal.activateEnvironment": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "python -u"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "terminal.integrated.inheritEnv": true
+}
